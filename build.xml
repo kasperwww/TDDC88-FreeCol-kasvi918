@@ -2,7 +2,7 @@
 
 <!-- This file includes targets for building FreeCol,
      the metaserver, distribution packages, running tests
-     and creating documentation. -->
+     and creating documentation.. -->
 <project name="FreeCol" default="package">
     <description>
         This file includes targets for building FreeCol,
